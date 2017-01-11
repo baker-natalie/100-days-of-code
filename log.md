@@ -9,3 +9,14 @@
 **Link(s) to work**
 1. [Demo](http://baker-natalie.github.io/Codette-club-ad/html/index.html)
 2. [Code](https://github.com/baker-natalie/micro-projects/tree/master/Codette-club-ad)
+
+
+### Day 2: 10 January, Tuesday
+
+**Today's Progress**: I started a mobile-responsive GIF vision board. I also further adjusted the CSS on the ad from yesterday.
+
+**Thoughts** This was just some fun.
+
+**Link(s) to work**
+1. [Vision Board at Codepen](http://codepen.io/nataliebaker/pen/KaVoER)
+2. [Ad](https://github.com/baker-natalie/micro-projects/tree/master/Codette-club-ad)
