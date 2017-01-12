@@ -20,3 +20,12 @@
 **Link(s) to work**
 1. [Vision Board at Codepen](http://codepen.io/nataliebaker/pen/KaVoER)
 2. [Ad](https://github.com/baker-natalie/micro-projects/tree/master/Codette-club-ad)
+
+### Day 3: 11 January, Wednesday
+
+**Today's Progress**: Worked on a ReactJS project.
+
+**Thoughts** This one's not ready for the light of day yet, as it's part of a collaborative project that isn't ready to be unveiled yet.
+
+**Link(s) to work**
+1. [It's related to this tweet](https://twitter.com/ohcodinglady/status/819377749454422016)
