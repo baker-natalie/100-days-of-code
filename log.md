@@ -29,3 +29,19 @@
 
 **Link(s) to work**
 1. [It's related to this tweet](https://twitter.com/ohcodinglady/status/819377749454422016)
+
+### Day 4: 12 January, Thursday
+
+**Today's Progress** Tried to make a memoizing function go. Failed so far.
+
+**Thoughts** I wanted to make the gifs on my vision board display randomly, without repeating, so I tried to call a memoizing function that would randomize and store the images called until they were all displayed. I think I've got the pieces, just trying to stitch them together.
+
+**Link(s) to work**
+1. [It's related to this tweet](### Day 3: 11 January, Wednesday
+
+**Today's Progress**: Worked on a ReactJS project.
+
+**Thoughts** This one's not ready for the light of day yet, as it's part of a collaborative project that isn't ready to be unveiled yet.
+
+**Link(s) to work**
+1. [I tweeted about it](https://twitter.com/ohcodinglady/status/819377749454422016))
