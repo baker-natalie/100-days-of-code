@@ -37,11 +37,13 @@
 **Thoughts** I wanted to make the gifs on my vision board display randomly, without repeating, so I tried to call a memoizing function that would randomize and store the images called until they were all displayed. I think I've got the pieces, just trying to stitch them together.
 
 **Link(s) to work**
-1. [It's related to this tweet](### Day 3: 11 January, Wednesday
+1. [It's related to this tweet](https://twitter.com/ohcodinglady/status/819780183422943232)
 
-**Today's Progress**: Worked on a ReactJS project.
+### Day 5: 13 January, Friday
 
-**Thoughts** This one's not ready for the light of day yet, as it's part of a collaborative project that isn't ready to be unveiled yet.
+**Today's Progress** react project, mongoDB, fiddled with randomization on gif vision board
 
-**Link(s) to work**
-1. [I tweeted about it](https://twitter.com/ohcodinglady/status/819377749454422016))
+**Thoughts** Lacked focus, still got a few little things done. Gotta stay flexible. 
+
+**Link(s) to work** Major lack of focus today, little accomplished. I tried. 
+1. [I made a repository](https://github.com/baker-natalie/gif-board)
