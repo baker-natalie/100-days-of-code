@@ -45,5 +45,5 @@
 
 **Thoughts** Lacked focus, still got a few little things done. Gotta stay flexible. 
 
-**Link(s) to work** Major lack of focus today, little accomplished. I tried. 
+**Link(s) to work**
 1. [I made a repository](https://github.com/baker-natalie/gif-board)
