@@ -47,3 +47,13 @@
 
 **Link(s) to work**
 1. [I made a repository](https://github.com/baker-natalie/gif-board)
+
+### Day 6: 14 January, Saturday
+
+**Today's Progress** fixed display issue on gif board and pushed live version to github pages
+
+**Thoughts** Still not randomized. Needs more gifs.
+
+**Link(s) to work**
+1. [code](https://github.com/baker-natalie)
+2. [demo](http://baker-natalie.github.io/GIFboard/)
