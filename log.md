@@ -57,3 +57,12 @@
 **Link(s) to work**
 1. [code](https://github.com/baker-natalie)
 2. [demo](http://baker-natalie.github.io/GIFboard/)
+
+### Day 7: 15 January, Sunday
+
+**Today's Progress** Got the randomizer working! Yays!
+
+**Thoughts** Needs moar gifs
+
+**Link(s) to work**
+same as yesterday
