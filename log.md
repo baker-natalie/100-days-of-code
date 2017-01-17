@@ -66,3 +66,11 @@
 
 **Link(s) to work**
 same as yesterday
+
+### Day 8: 16 January, Monday
+
+**Today's Progress** More work on react project and dropdown menus
+
+**Thoughts** Progress is slow
+
+**Link(s)to work**
