@@ -74,3 +74,12 @@ same as yesterday
 **Thoughts** Progress is slow
 
 **Link(s)to work**
+
+### Day 9: 17 January, Tuesday
+
+**Today's Progress** Made a display gallery for different webpages
+
+**Thoughts** I'm working on this for a specific purpose, however the portfolio example I am using to develop it is prettty awesome. Logging late bc I fell asleep.
+
+**Link(s) to work**
+[code](https://github.com/baker-natalie/iframe-gallery)
