@@ -79,7 +79,25 @@ same as yesterday
 
 **Today's Progress** Made a display gallery for different webpages
 
-**Thoughts** I'm working on this for a specific purpose, however the portfolio example I am using to develop it is prettty awesome. Logging late bc I fell asleep.
+**Thoughts** I'm working on this for a specific purpose, however the portfolio example I am using to develop it is pretty awesome. Logging late bc I fell asleep.
 
 **Link(s) to work**
 [code](https://github.com/baker-natalie/iframe-gallery)
+
+### Day 10: 18 January, Wednesday
+
+**Todays' Progress** Continued work on iframe gallery
+
+**Thoughts** Need to use filenames to create an array with php
+
+**Link(s) to work**
+[code](https://github.com/baker-natalie/iframe-gallery)
+
+### Day 11: 19 January, Thursday
+
+**Today's Progress** Back to working on nodeJS, csv to JSON conversion
+
+**Thoughts** Need to learn more about setting up dev environments
+
+**Link(s) to work**
+[on cloud9](https://ide.c9.io/nataliebaker/csv-to-json)
