@@ -101,3 +101,12 @@ same as yesterday
 
 **Link(s) to work**
 [on cloud9](https://ide.c9.io/nataliebaker/csv-to-json)
+
+### Day 12: 20 January, Friday
+
+**Today's Progress** Back to the iframe gallery, the portfolio idea is now up and running
+
+**Thoughts** I hope this will make a good project for people to make their first/early open source contributions to
+
+**Links to work**
+[repository](https://github.com/codetteclub/first-portfolios)
