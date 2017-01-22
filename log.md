@@ -110,3 +110,12 @@ same as yesterday
 
 **Links to work**
 [repository](https://github.com/codetteclub/first-portfolios)
+
+### Day 13: 21 January, Saturday
+
+**Today's Progress** Fiddled with nodejs and web workers
+
+**Thoughts** Trying to determine the best way to load contributed files and integrate them in the project
+
+**Links to work**
+[repository](https://github.com/codetteclub/first-portfolios)
