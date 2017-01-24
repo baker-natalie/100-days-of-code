@@ -119,3 +119,21 @@ same as yesterday
 
 **Links to work**
 [repository](https://github.com/codetteclub/first-portfolios)
+
+### Day 14: 22 January, Sunday
+
+**Today's Progress** More web workers, figuring out contribution structure
+
+**Thoughts** Gonna have to accept that this is going to need a server-side solution
+
+**Links to work**
+[repository](https://github.com/codetteclub/first-portfolios)
+
+### Day 15: 23 January, Monday
+
+**Today's Progress** Last ditch effort at using apache server to pull directory info
+
+**Thoughts** This would probably work if I could make the ajax request go
+
+**Links to work**
+[repository](https://github.com/codetteclub/first-portfolios)
