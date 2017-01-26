@@ -137,3 +137,16 @@ same as yesterday
 
 **Links to work**
 [repository](https://github.com/codetteclub/first-portfolios)
+
+### Day 16: 24 January, Tuesday
+
+# SKIP DAY
+
+### Day 17: 25 January, Wednesday
+
+**Today's Progress** Made the thing go! Pulling the portfolios list will now be pulled from a directory instead of hard-coded in!
+
+**Thoughts** I thought this was going to be the hardest part, but I forgot how bad I am at assimilating info from ajax calls
+
+**Links to work**
+[repository](https://github.com/codetteclub/first-portfolios)
