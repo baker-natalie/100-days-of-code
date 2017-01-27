@@ -150,3 +150,12 @@ same as yesterday
 
 **Links to work**
 [repository](https://github.com/codetteclub/first-portfolios)
+
+### Day 18: 26 January, Thursday
+
+**Today's Progress** Resolved major issues with jQuery `getScript()` just has to deal with mixed content issues
+
+**Thoughts** It works!!!
+
+**Links to work**
+[cloud9 ide editor](https://ide.c9.io/nataliebaker/filename-array-generator)
