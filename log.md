@@ -184,6 +184,14 @@ same as yesterday
 
 **Links to work** [tweet](https://twitter.com/ohcodinglady/status/825897283099250688)
 
+### Day 22: 30 January, Monday
+
+**Today's Progress** worked with pug in express.js to build and style the timestamp project page.
+
+**Thoughts** This is frikin' **awesome**
+
+**Links to work** [repo](https://github.com/baker-natalie/timestamp)
+
 ### Day
 
 **Today's Progress**
