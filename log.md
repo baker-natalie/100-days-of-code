@@ -159,3 +159,35 @@ same as yesterday
 
 **Links to work**
 [cloud9 ide editor](https://ide.c9.io/nataliebaker/filename-array-generator)
+
+### Day 19: 27 January, Friday
+
+**Today's Progress** Wrapped the major portion of the portfolio gallery, still needs a few small tweaks before going live.
+
+**Thoughts** Feels good to have gotten this working and ready for submisisons
+
+**Links to work** [repository](https://github.com/codetteclub/first-portfolios)
+
+### Day 20: 28 January, Saturday
+
+**Today's Progress** Started poking around with express.js and planning timestamp microservice project for free code camp.
+
+**Thoughts** Yaaay back to exciting stuff!
+
+**Links to work** [tweet](https://twitter.com/ohcodinglady/status/825567671072727041)
+
+### Day 21: 29 January, Sunday
+
+**Today's Progress** Set up boilerplate code and dependencies for timestamp project
+
+**Thoughts** So *this* is how we set up dependencies
+
+**Links to work** [tweet](https://twitter.com/ohcodinglady/status/825897283099250688)
+
+### Day
+
+**Today's Progress**
+
+**Thoughts**
+
+**Links to work** []()
