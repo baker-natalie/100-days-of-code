@@ -192,6 +192,14 @@ same as yesterday
 
 **Links to work** [repo](https://github.com/baker-natalie/timestamp)
 
+### Day 23: 31 January, Tuesday
+
+**Today's Progress** Completed timestamp project and deployed it to heroku!
+
+**Thoughts** Yaaaay
+
+**Links to work** [repo](http://github.com/baker-natalie/timestamp) [heroku](http://http://bakeabledateservice.herokuapp.com/)
+
 ### Day
 
 **Today's Progress**
