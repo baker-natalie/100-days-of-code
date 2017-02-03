@@ -200,6 +200,30 @@ same as yesterday
 
 **Links to work** [repo](http://github.com/baker-natalie/timestamp) [heroku](http://http://bakeabledateservice.herokuapp.com/)
 
+### Day 24: 1 February, Wednesday
+
+**Today's Progress** set up my first reactJS project
+
+**Thoughts** I have been putting this off too long, it's not as scary as I thought
+
+**Links to work** [tweet](https://twitter.com/ohcodinglady/status/827226160966803456)
+
+### Day 25: 2 February, Thursday
+
+**Today's Progress** followed a tutorial to complete the first data vis project on FCC: a markdown text previewer.
+
+**Thoughts** This makes sense, and I learned about fat arrow functions
+
+**Links to work** [pen](http://codepen.io/nataliebaker/full/GrQYQE/)
+
+### Day 26: 3 February, Friday
+
+**Today's Progress** completed backend project #2 for FCC, the header parser microservice, starting project #3, url shortener
+
+**Thoughts** I love expressJS
+
+**Links to work** [demo](http://yayheaderparser.herokuapp.com/) [repo](https://github.com/baker-natalie/yayHeaderParser)
+
 ### Day
 
 **Today's Progress**
@@ -207,3 +231,4 @@ same as yesterday
 **Thoughts**
 
 **Links to work** []()
+
