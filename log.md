@@ -224,6 +224,30 @@ same as yesterday
 
 **Links to work** [demo](http://yayheaderparser.herokuapp.com/) [repo](https://github.com/baker-natalie/yayHeaderParser)
 
+### Day 27: 4 February, Saturday
+
+**Today's Progress** Finally successfully installed MongoDB. That's all I got done today.
+
+**Thoughts** This was super challenging and I'm still a little confused.
+
+**Links to work** [tweet](https://twitter.com/ohcodinglady/status/828051165426438148)
+
+### Day 28: 5 February, Sunday
+
+**Today's Progress** Worked on setting up the portfolio gallery project as a fullstack app
+
+**Thoughts** Got everything installed, now have to convert the front-end to play nicely with the backend
+
+**Links to work** [tweet](https://twitter.com/ohcodinglady/status/828467975535616001)
+
+### Day 29: 6 February, Monday
+
+**Today's Progress** Got the display working with pug and converted the directory reading function over to node JS for the portfolio gallery
+
+**Thoughts** It's coming together, yay
+
+**Links to work** [tweet](https://twitter.com/ohcodinglady/status/828831521918291968)
+
 ### Day
 
 **Today's Progress**
@@ -231,4 +255,3 @@ same as yesterday
 **Thoughts**
 
 **Links to work** []()
-
