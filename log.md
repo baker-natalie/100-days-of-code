@@ -248,6 +248,34 @@ same as yesterday
 
 **Links to work** [tweet](https://twitter.com/ohcodinglady/status/828831521918291968)
 
+### Day 30: 7 February, Tuesday
+
+**Today's Progress** More work on converting portfolios gallery to node and fixing the display loop
+
+**Thoughts** frustrated
+
+**Links to work** [my fork](https://github.com/baker-natalie/first-portfolios)
+
+### Day 31: 8 February, Wednesday
+
+# SKIP DAY
+
+### Day 32: 9 February, Thursday
+
+**Today's Progress** Did some CSS-ing
+
+**Thoughts** just taking it easy to get back into things
+
+**Links to work** [tweet](https://twitter.com/ohcodinglady/status/829604818708729856)
+
+### Day 33: 10 February, Friday
+
+**Today's Progress** Stilly trying to get the display working properly on the portfolios gallery
+
+**Thoughts** frustraaaated
+
+**Links to work** [fork it](https://github.com/baker-natalie/first-portfolios)
+
 ### Day
 
 **Today's Progress**
