@@ -270,11 +270,51 @@ same as yesterday
 
 ### Day 33: 10 February, Friday
 
-**Today's Progress** Stilly trying to get the display working properly on the portfolios gallery
+**Today's Progress** Still trying to get the display working properly on the portfolios gallery
 
 **Thoughts** frustraaaated
 
 **Links to work** [fork it](https://github.com/baker-natalie/first-portfolios)
+
+### Day 34: 11 February, Saturday
+
+**Today's Progress** wrestled with heroku
+
+**Thoughts** ugh
+
+**Links to work** []()
+
+### Day 35: 12 February, Sunday
+
+**Today's Progress** Finished up the Portfolio Gallery for launch
+
+**Thoughts** I did it! I did it!
+
+**Links to work** [demo](http://portfoliogallery.herokuapp.com)
+
+### Day 36: 13 February, Monday
+
+**Today's Progress** Went to fcc meetup, reviewed portfolio gallery for issues
+
+**Thoughts** still a bit tired from completing this project
+
+**Links to work** [repo](http://github.com/codetteclub/first-portfolios)
+
+### Day 37: 14 February, Tuesday
+
+**Today's Progress** forked and fiddled wtih this tic-tac-toe ai
+
+**Thoughts** simple game, comlicated logic!
+
+**Links to work** [repo](https://github.com/baker-natalie/Tic-Tac-Toe-AI)
+
+### Day 38: 15 February, Wednesday
+
+**Today's Progress** Started on url shortener project for fcc backend
+
+**Thoughts** mongodb is still intimidating
+
+**Links to work** [repo](https://github.com/baker-natalie/url-shortener)
 
 ### Day
 
